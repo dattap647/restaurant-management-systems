@@ -1,2 +1,3 @@
 # restaurant-management-systems
-Restaurant Billing system which deals with customers bill
+ Restaurant management system developed with the intention of automating the day 
+to day tasks in a restaurant like order and inventory management, bill generation . The main purpose is to improve the performance of the restaurant by eradicating the daily paperwork.An additional benefit of this software is that during the rush hours the load can be balanced effectively, and restaurants would  perform better than usual. In addition to this, human error that occurs when performing tasks  manually is also minimized and presence of queues in the system to assign tasks to chefs can reduce congestion in the kitchen. . These benefits can potentially result in generation of more revenues for the restaurant.
