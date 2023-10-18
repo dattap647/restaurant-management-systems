@@ -27,7 +27,7 @@ bdist_msi_options={'data':msi_data}
 setup(
     version="0.1",
     description="Restaurant Management System",
-    author="faizan Khan",
+    author="Datta Patil",
     name="Restaurant Management System",
     options={'build_exe':{'include_files':includefiles},'bdist_msi':bdist_msi_options,},
     executables=[
